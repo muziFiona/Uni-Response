@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # Week2-Advanced Physical Computing
 
 ### Lab 00 - Leds in Serial and Parallel
 
-[![LEDs in Serial](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Week_2/media/IMG_20191013_222906.jpg)]
+![LEDs in Serial](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Week_2/media/IMG_20191013_222906.jpg)
 
 ### Lab 01 - Serial Data
 Explore Serial Monitor base on https://github.com/phoenixperry/cci-ual-pcomp/blob/master/week02/hello/hello.ino
@@ -16,17 +15,3 @@ Explore Serial Monitor base on https://github.com/phoenixperry/cci-ual-pcomp/blo
 
 ### Lab 04 - Playing with Common Sensors
 ### Square FSR
-=======
-# Week2-Advanced Physical Computing
-
-### Lab 00 - Leds in Serial and Parallel
-
-### Lab 01 - Serial Data
-
-### Lab 02 - Potentiometers (Knobs)
-
-### Lab 03 - Light Dependent Resistors
-
-### Lab 04 - Playing with Common Sensors
-### Square FSR
->>>>>>> dea8dc3f7f39a0f75c97c453928c25782b44a432
