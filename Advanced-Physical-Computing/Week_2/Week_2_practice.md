@@ -10,7 +10,8 @@ LEDs in Parallel can have up to 6 LEDs with a 220 resistor
 
 ### Lab 01 - Serial Data
 Explore Serial Monitor base on https://github.com/phoenixperry/cci-ual-pcomp/blob/master/week02/hello/hello.ino
-![LEDs in Parallel](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Week_2/media/2019-10-14%20022338.jpg)
+Serial Data with 3 options, if user press O, arduino will introduce me, if N for no, it will keep asking why, and finally with the 'the end of story'
+![LEDs in Parallel](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Week_2/media/2019-10-14%20035320.jpg)
 
 
 
