@@ -8,9 +8,17 @@ LEDs in Serial can only have up to 2 LEDs with the a 220 resistor
 LEDs in Parallel can have up to 6 LEDs with a 220 resistor
 ![LEDs in Parallel](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Week_2/media/IMG_20191013_225920.jpg)
 
+However, when I talked to my classmate, they were able to insert more than 20 LEDs in one breadboard, and they stopped because it's out of space. So I go back to think about the issue I might have. 
+
+As I used different colour of LEDs in this case, this may lead to different result compare to same color of LEDs. Therefore I took more orange LEDs (around 30) to try for second time. 
+Eventually, all LEDs were still on and I just run out of LED.
+Hence I might need to calculate out the max number of LED I can have with one 220 resistor.
+
+
+
 ### Lab 01 - Serial Data
 Explore Serial Monitor base on https://github.com/phoenixperry/cci-ual-pcomp/blob/master/week02/hello/hello.ino
-Serial Data with 3 options, if user press O, arduino will introduce me, if N for no, it will keep asking why, and finally with the 'the end of story'
+Serial Data with 3 options, if user press O, arduino will introduce me, if N for no, it will keep asking why, and finally with the 'the end of story
 ![LEDs in Parallel](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Week_2/media/2019-10-14%20035320.jpg)
 
 
