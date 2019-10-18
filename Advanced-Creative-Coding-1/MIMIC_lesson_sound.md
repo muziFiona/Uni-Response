@@ -18,3 +18,7 @@ continuous, drone-based sound texture
 sound texture develop over time
 
 https://mimicproject.com/code/54314a43-a1b0-20bc-5ee3-63206037783d
+
+### Week 2 Practice
+a rhythmic piece with 6 pieces of soundtracks
+https://mimicproject.com/code/3ad355f9-b355-2af0-97bf-742fc16b7de3
