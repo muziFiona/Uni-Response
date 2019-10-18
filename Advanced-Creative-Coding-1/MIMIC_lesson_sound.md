@@ -1,4 +1,4 @@
-# Week1-Practice-from MIMIC
+# Week1 and Week 2-Practice-from MIMIC
 
 ### Week 1 practice from getting started guide:
 https://mimicproject.com/code/2df7d68e-3132-55e8-9df7-249c6fe82862
