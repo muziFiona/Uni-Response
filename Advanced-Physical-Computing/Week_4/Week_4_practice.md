@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Week 4 Practice
 
 ## Hook up a servo
