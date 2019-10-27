@@ -2,7 +2,7 @@
 
 ## 30/09/2019 Week 1
 ### Response from Week 1- Simon Says 
-[![Progress image 1](https://github.com/muziFiona/Msc_Work_From_Uni/blob/master/IMG_20191007_075110.jpg)]
+![Progress image 1](https://github.com/muziFiona/Msc_Work_From_Uni/blob/master/IMG_20191007_075110.jpg)
 
 ###ISSUES!!
 In response to create Simon Says game, I tried to look up for tutorial online as it requires coding for the structure. 
@@ -25,3 +25,5 @@ Before it get no response, it seems to work properly but only two LEDs work, and
 
 I was not able to complete the little game for Week 1 response although with finished lab practice, I am hoping to fully understand its structure and what is the possible way to create this game without a "buzzer" and maintain using only the same amount of resistor as the number of LEDs (as from most of the examples and tutorials they required double amount of resistors and need buzzer within production, and I was not able to find the way to get rid of code that is for the buzzer reaction. )
 
+======! ## UPDATE
+[![The Game](https://i.ytimg.com/vi/l_VFq4AUOsw/hqdefault.jpg)](https://youtu.be/l_VFq4AUOsw)
