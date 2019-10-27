@@ -1,4 +1,4 @@
-# Week 4 Practice
+# Week 4 Practice (click image to watch on YouTube)
 
 ## Hook up a servo
 We have tried to change the rotation angle to see the difference
