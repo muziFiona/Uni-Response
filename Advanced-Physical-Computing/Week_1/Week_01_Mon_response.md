@@ -25,5 +25,10 @@ Before it get no response, it seems to work properly but only two LEDs work, and
 
 I was not able to complete the little game for Week 1 response although with finished lab practice, I am hoping to fully understand its structure and what is the possible way to create this game without a "buzzer" and maintain using only the same amount of resistor as the number of LEDs (as from most of the examples and tutorials they required double amount of resistors and need buzzer within production, and I was not able to find the way to get rid of code that is for the buzzer reaction. )
 
-## ======! UPDATE
-[![The Game](https://i.ytimg.com/vi/l_VFq4AUOsw/hqdefault.jpg)](https://youtu.be/l_VFq4AUOsw)
+## ======! UPDATE made my code
+
+### Winning Result
+[![The Game](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Week_1/Media/Simon_say_game_update_img.jpg)](https://youtu.be/VlrNEX3Hg1w)
+
+### Loose
+[![The Game](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Week_1/Media/Simon_say_game_update_img.jpg)](https://youtu.be/_5yzOMKchn4)
