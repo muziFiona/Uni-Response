@@ -34,6 +34,11 @@ A GPIO pin is a 'general purpose input/output' pin. This is by default only high
 #### A0-A7 => analog-to-digital
 
 In electronics, an analog-to-digital converter (ADC, A/D, or A-to-D) is a system that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal. An ADC may also provide an isolated measurement such as an electronic device that converts an input analog voltage or current to a digital number representing the magnitude of the voltage or current. Typically the digital output is a two's complement binary number that is proportional to the input, but there are other possibilities.
+// https://en.wikipedia.org/wiki/Analog-to-digital_converter   https://learn.sparkfun.com/tutorials/analog-to-digital-conversion/all 
+
+The Arduino can input and output analog signals as well as digital signals. An analog signal is one that can take on any number of values, unlike a digital signal which has only two values: HIGH and LOW. ... The function used to output a PWM signal is analogWrite(pin, value). pin is the pin number used for the PWM output.
+
+// https://www.allaboutcircuits.com/projects/using-the-arduinos-analog-io/
 
 ### Pin Detail Diagram of Particle Photon
 
