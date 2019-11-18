@@ -23,7 +23,17 @@ After you have setup through the app "Particle IoT" (ios/android), with set WiFi
 
 As D7 comes with LED, you don't need to connect to any components for first time. Press D7 and set this as digitalWrite and this LED will lights up when it is HIGH, and off when it is LOW. 
 
-Or if you are connected to a breadboard, simply hook up a 
+Or if you are connected to a breadboard, simply hook up a LED on the pin A0-A7 (only A0-A5 shown on board, A6 and A7 are invisible but should be refer to DAC and WKP) and D0-D7.
+
+#### D0-D7 => GIO pins
+
+A GPIO pin is a 'general purpose input/output' pin. This is by default only high or low (voltage levels, high being the micro controller's supply voltage, low usually being ground, or 0V). But the levels of 'high' and 'low' are usually given as voltages as a proportion of the supply voltage. So anything usually above 66% of the supply voltage is considered a logic level 'high' which means some lower voltage devices can talk with high voltage devices as long as the levels fall within what is considered 'high'. A 1.8–2.7V low power microcontroller or GPS receiver for example will have trouble communicating directly to a 5V microcontroller because what the low voltage device sees as 'high' the higher voltage device will not think it's high at all. This is for using GPIO as an input pin, and output is basically the same - the output high is based on the supply of the controller, where it will drive current out and set the voltage of that pin to VCC, or sink current and pull the pin to 0V for a logic 'low'.
+
+// information from https://electronics.stackexchange.com/questions/104456/understanding-gpio-analog-and-digital 
+
+#### A0-A7 => analog-to-digital
+
+In electronics, an analog-to-digital converter (ADC, A/D, or A-to-D) is a system that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal. An ADC may also provide an isolated measurement such as an electronic device that converts an input analog voltage or current to a digital number representing the magnitude of the voltage or current. Typically the digital output is a two's complement binary number that is proportional to the input, but there are other possibilities.
 
 ### Pin Detail Diagram of Particle Photon
 
