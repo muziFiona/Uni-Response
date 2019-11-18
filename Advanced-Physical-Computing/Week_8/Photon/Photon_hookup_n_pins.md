@@ -78,18 +78,18 @@ VBAT: Supply to the internal RTC, backup registers and SRAM (1.8 to 3.3VDC).
 
 SPI: It has two On-board hardware SPI, namely SPI and SPI1.
 
-      The SPI pins on Particle Photon are as follows,
+      The SPI pins on Particle Photon are as follows,      
 
-SPI                                                             SPI1          
-
-SS         - A2 (default)                                SS         - D5 (default)
-
-SCK      - A3                                                SCK       - D4
-
-MISO   - A4                                                MISO    - D3
-
-MOSI   - A5                                                MOSI    - D2
-
+|SPI                                        |                     SPI1                          |
+| ------                                    |   -------                                         |
+|SS         |- A2 (default)                 |                     SS         |- D5 (default)    | 
+|           |                               |                                |                  |
+|SCK        |- A3                           |                     SCK        |- D4              |
+|           |                               |                                |                  |
+|MISO       |- A4                           |                     MISO       |- D3              |
+|           |                               |                                |                  |
+|MOSI       |- A5                           |                     MOSI       |- D2              |
+|
 I2C: It has one I2C port. SDA and SCL pins are available on D0 and D1 pin respectively.
 
 //information from https://www.electronicwings.com/particle/particle-photon-board 
