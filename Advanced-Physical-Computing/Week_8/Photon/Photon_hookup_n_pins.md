@@ -81,7 +81,7 @@ SPI: It has two On-board hardware SPI, namely SPI and SPI1.
       The SPI pins on Particle Photon are as follows,      
 
 |SPI                                        |                     SPI1                          |
-| ------                                    |   -------                                         |
+| ----------|-------------------------------|--------------------------------|------------------|
 |SS         |- A2 (default)                 |                     SS         |- D5 (default)    | 
 |           |                               |                                |                  |
 |SCK        |- A3                           |                     SCK        |- D4              |
