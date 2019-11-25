@@ -4,7 +4,7 @@
 
 We have a choice to research either the Photon IOT  Wi-Fi Board or the Adafruit nRF52840, and we have choose to research on the Wi-Fi Board. We control it by connecting to a hotspot, download the app from Photon and should be able to control on phone or laptop. 
 
-![AI](img)
+![Wifi Board](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Week_8/media/Week_8_Proton_Wifi_1.gif)
 
 For the details of our group research, please refer to: https://github.com/phoenixperry/cci-ual-pcomp/blob/master/week08/Photon%20IOT%20Wi-Fi/Photon_IOT_Wi-Fi%20.md
 
@@ -14,4 +14,4 @@ Although I should be in researching about the details of the Wi-Fi Board, I got 
 
 #### The solder progress
 
-![AI](img)
+![Soldering](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Week_8/media/Soldering_1.gif)
