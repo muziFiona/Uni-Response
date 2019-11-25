@@ -69,6 +69,23 @@ I was not able to make the screen on, not sure if it's because of the soldering 
 
 ## Week 8
 
+### Laser Cutting Induction (21/11/2019)
+
+This week we have the laser cutting induction so I want to focus on the outlook design and have it done by next week.
+
+We are tought how to create files on Adobe Illustrator for the laser cutting, having knowledge about size, dimensions, and gap for pieces, etc. (Generally learn the rules for preparing, and how to achieve on actual machine)
+
+### The cutting Process
+![Laser Cutting](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Final_Project/media/Laser_Cutting.jpg)
+
+At first, I want to create a Maya model first and transfer into flat image (using the mapping function), but that could take much more time to really fully create an accurate model with the right scale (as there is no measuring tool in Maya and it would be wasting time to get start with another new software at this point (could have a look at Fushion 360 after), and I decided to draw directly on AI after the induction (have found the material in UAL shop, the wood board 3mm thick). 
+
+Here's the 3D model for inital design:
+![Maya](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Final_Project/media/Maya_model.jpg)
+The AI graphic:
+![AI](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Final_Project/media/AI_Design_01.jpg)
+
+
 ## Week 9
 
 
