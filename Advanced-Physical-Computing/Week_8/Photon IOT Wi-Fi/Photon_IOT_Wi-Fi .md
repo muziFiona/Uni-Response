@@ -127,6 +127,84 @@ This is the web side of the app, and you can type in the code here. 👉
  ![](https://github.com/Yunhan-Wang/Arduino-Homework/blob/master/Week8/website.png)
 
 
+# Particle Photon
+
+//BY XIAOJIE LIN and Lan Yang
+
+## Definition:
+
+Photon is a miniature Wi-Fi IoT device for creating connected projects and products for the Internet of Things. It's easy to use, powerful and connected to the cloud. Particles combine the powerful STM32 ARM Cortex M3 microcontroller with the BCM43362 Wi-Fi chip in a miniature thumbnail module called PØ (P-zero)
+
+## Using cases:
+
+![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/1.png)
+
+* Step 1: Tools and Components
+
+![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/2.png)
+
+Particle Photon
+
+Breadboard
+
+LEDs
+
+220ohm Resistor
+
+Micro USB Cable
+
+* Step 2: Getting the Photon Connected
+
+![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/2.png)
+
+First before we start to program a board you need to open up the web based ide for the particle photon. You can do this by creating an account at Particle website. After registering for an account next we need to claim the photon to your account. This can be done by two ways one uses an android phone to claim the photon and next uses particle CLI (Terminal Application) to claim your core. I will be showing you how to do it both the ways.
+
+First I will show you how to claim your photon using a smart phone either android or Iphone. Start by going to the play store or apple store and downloading the Particle.io application.
+
+Next login in to the application and click on the add new photon icon. Plug in the core and you should see it blinking blue, connect your phone to the WiFi network though which your photon connects to the internet. And you should see your photon on the app. Next enter your WiFi details and your photon will blink green indicating it is trying to connect to the WiFi network and then it will fade cyan (indicating successful connection). Now you are ready to upload your code to the photon.
+
+* Step 3: Getting Photon Connected Via CLI
+
+![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/3.png)
+
+Another way to get your photon connected to the particle cloud is via CLI (Terminal). For this you will need to install nodeJs, you can download it from here and install it. This method does not need an smart phone to get the photon setup.
+
+Then enter the below command to install particle CLI, make user to run it in administrative or root privileges.
+
+npm install particle-cli
+After installing the particle cli, connect your core to the computer (via micro USB) and run the below command.
+
+particle setup
+Follow the on screen instructions and you should have you photon breathing cyan and you are now ready to upload the code.
+
+* Step 4: Hardware
+
+![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/4.png)
+
+Before we upload the code to the photon lets, add an led to the photon. The anode of the LED connects to the D0 pin of the photon and the cathode pin connects to the Gnd pin of the photon via a 220ohm resistor.
+
+You can test out the connections by using the particle app to control the led by changing the state of the D0 pin to digital write and then set it to high and you should see the led glow and turn it off by setting the state of the pin to low.
+
+If you got the led to glow, next lets upload the code to the arduino and control it over the internet.
+
+* Step 5: Code Upload
+
+![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/5.png)
+
+Now to upload the code you will need to visit particles web based IDE and paste in the below code and then select the photon from the list of devices on the left of your screen. And then give the new program a name and hit flash. You should see your photon blink pink indicating that the code is uploading on to the board. After uploading the reset and connect to the internet.
+
+## Particle's core philosophy:
+
+Help rapid IoT product development with a cloud-based hardware development platform.
+
+Help enable cloud connectivity from a single prototype to a high-volume finished product with a cloud platform.
+
+Help manage online hardware products
+
+![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/cat.gif)
+
+![alt text](https://github.com/lalisa777/xiaojielin/blob/master/Advanced%20Physical%20Computing/file/99.jpeg)
+
 
 
 ## More examples from others
