@@ -76,7 +76,9 @@ This week we have the laser cutting induction so I want to focus on the outlook 
 We are tought how to create files on Adobe Illustrator for the laser cutting, having knowledge about size, dimensions, and gap for pieces, etc. (Generally learn the rules for preparing, and how to achieve on actual machine)
 
 ### The cutting Process
-![Laser Cutting](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Final_Project/media/Laser_Cutting.jpg)
+
+(click image to the video)
+[![Laser Cutting](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Final_Project/media/Laser_Cutting.jpg)](https://youtu.be/PzTp2HzhzW8)
 
 At first, I want to create a Maya model first and transfer into flat image (using the mapping function), but that could take much more time to really fully create an accurate model with the right scale (as there is no measuring tool in Maya and it would be wasting time to get start with another new software at this point (could have a look at Fushion 360 after), and I decided to draw directly on AI after the induction (have found the material in UAL shop, the wood board 3mm thick). 
 
