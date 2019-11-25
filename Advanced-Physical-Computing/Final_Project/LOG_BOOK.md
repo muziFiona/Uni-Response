@@ -87,6 +87,13 @@ Here's the 3D model for inital design:
 The AI graphic:
 ![AI](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Final_Project/media/AI_Design_01.jpg)
 
+============!
+### The TFT screen finally work!!
+I resolder all the plot and try the Arduino example, it finally works!
+So the previous problem might consider as "didn't solder properly", I reconsider this probability after the Week 8 lesson (solder the Adafruit nRF52840) which I learnt the correct method about soldering. 
+
+The TFT test from Arduino library:
+![TFT test](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Final_Project/media/TFT_Arduino_test_1.gif)
 
 ## Week 9
 
