@@ -63,6 +63,7 @@ https://learn.adafruit.com/2-2-tft-display
 
 [![adafruit tutorial](https://cdn-learn.adafruit.com/assets/assets/000/049/587/large1024/arduino_compatibles_uno_bb.png?1513982526)](https://learn.adafruit.com/2-2-tft-display/arduino-wiring)
 
+
 My laptop just gone black for minutes (you cannot even turn it on). The power button works few minute after. 
 
 I was not able to make the screen on, not sure if it's because of the soldering problem or power problem or circuit problem. I will need to figure it out or think of the other options for screening (ex. using phone or ipad as screen).
@@ -94,6 +95,8 @@ So the previous problem might consider as "didn't solder properly", I reconsider
 
 The TFT test from Arduino library:
 ![TFT test](https://github.com/muziFiona/Uni-Response/blob/master/Advanced-Physical-Computing/Final_Project/media/TFT_Arduino_test_1.gif)
+
+[TFT wiring tutorial](https://learn.adafruit.com/2-2-tft-display/arduino-wiring)
 
 ## Week 9
 
