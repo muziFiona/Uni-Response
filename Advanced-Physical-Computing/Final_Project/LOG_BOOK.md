@@ -102,11 +102,16 @@ The TFT test from Arduino library:
 
 ### Laser Cutting
 
+![Laser Cutting](img)
+
+![Laser Cutting](img)
 I brought all materials from UAL shop, plywood. Here comes to a problem, I saw a MDF sheet (3mm thick) inside the shop which would be prefect for laser cutting with its size and price, however, there's a sign on top saying it is not suitable for the Laser Cutting of this university. So I need to go back to my set Ai file and change the size of the file. 
 
 The effect on wood look just as I want, the burn mark on the wood makes the pattern looks more mystery. 
 
 There were some problem during the laser cutting, as I need to engrave the RUNES pattern on top the wheel shape, which I need to save the pattern seperately as an image file and print together. However, when the staff there try to help me sending the file to the machine, errors always happen due to the image file. That took a while to figure but failed. Finally we printed the pattern seperately on the board first and hold its position to cut out the shapes. And the result looks really nice. 
+
+[![Laser Cutting](img)](https://youtu.be/yKnb4aUxnGA)
 
 Most of the holes fit my components well, just the bit that use to connect the box and the wheel together was sliently unstable, which I would like to reprint that parts next week. As well as printing out some spare parts in case some not works. 
 
