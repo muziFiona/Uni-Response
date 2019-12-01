@@ -1,4 +1,3 @@
-# Week 8
 # Week 9 Practice
 
 ## Creating Circuit board using Eagle
