@@ -22,3 +22,20 @@ Use only lines to spilit the paper, and have 4 cross as the challenge part. Use 
         //to use r to move camera path on y axis
 
     }
+
+## Example TryOut
+
+[![TryOut](https://github.com/muziFiona/Uni-Response/blob/master/Advanced_Visualisation_and_Computational_Environments/Week1_06_01_2020/media/2020-01-20%2000-49-58_Moment.jpg)](https://youtu.be/RhFpDHxOOeU)
+
+Parts that change
+>
+  x = Mathf.Sin(Mathf.Deg2Rad * angle) / radius; 
+  y = Mathf.Tan(Mathf.Deg2Rad * angle) * radius;
+
+[![TryOut](https://github.com/muziFiona/Uni-Response/blob/master/Advanced_Visualisation_and_Computational_Environments/Week1_06_01_2020/media/2020-01-20%2001-11-44_Moment.jpg)](https://youtu.be/vOI-VDBWYG8)
+
+Parts that change
+>   
+    gameObject.transform.localScale = new Vector3(Mathf.Sin(w2)*Time.time, Mathf.Tan(h2), Mathf.PI);
+    return go; 
+
