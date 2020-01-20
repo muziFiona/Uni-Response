@@ -29,8 +29,8 @@ Use only lines to spilit the paper, and have 4 cross as the challenge part. Use 
 
 Parts that change
 >
-  x = Mathf.Sin(Mathf.Deg2Rad * angle) / radius; 
-  y = Mathf.Tan(Mathf.Deg2Rad * angle) * radius;
+   x = Mathf.Sin(Mathf.Deg2Rad * angle) / radius; 
+   y = Mathf.Tan(Mathf.Deg2Rad * angle) * radius;
 
 [![TryOut](https://github.com/muziFiona/Uni-Response/blob/master/Advanced_Visualisation_and_Computational_Environments/Week1_06_01_2020/media/2020-01-20%2001-11-44_Moment.jpg)](https://youtu.be/vOI-VDBWYG8)
 
